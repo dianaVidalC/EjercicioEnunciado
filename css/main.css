@@ -1,0 +1,14 @@
+.padre{
+  border: 8px solid rgb(185, 7, 172);
+  box-sizing: border-box;
+  padding: 30px;
+  background: pink;
+}
+
+.hijo{
+  text-align: center;
+  background: #fff;
+  border: 1px dashed black;
+  box-sizing:border-box;
+  padding: 10px;
+}
